@@ -88,3 +88,6 @@ viii)
 ![op](./op7.png)
 ix)
 ![op](./op8.png)
+
+# Result:
+Thus the EDA on the given data set is sucessfully done.
